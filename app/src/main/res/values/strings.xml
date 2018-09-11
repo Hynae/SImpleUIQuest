@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Projet1</string>
+    <string name="welcome_to_the_wild_code_school">Welcome to the Wild Code School</string>
+    <string name="yes_i_want_to_be_a_wilder">Yes, I want to be a wilder!</string>
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="accept">Accept</string>
+    <string name="errorName">Please fill your firstname and lastname!</string>
+</resources>
