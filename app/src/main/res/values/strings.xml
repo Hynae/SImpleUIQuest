@@ -6,4 +6,5 @@
     <string name="lastname">Lastname</string>
     <string name="accept">Accept</string>
     <string name="errorName">Please fill your firstname and lastname!</string>
+    <string name="congratulations">Congratulations</string>
 </resources>
